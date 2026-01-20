@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "699c21b78a95298d",
+        "id": "de38082a3e512a0d",
         "type": "tabs",
         "children": [
           {
-            "id": "e080d7eb2bd12933",
+            "id": "faa42c4f20dddc9f",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -37,7 +37,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -173,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,6 +190,9 @@
   },
   "active": "64279cb701c80660",
   "lastOpenFiles": [
+    "rust",
+    "go",
+    "dotnet",
     "LICENSE"
   ]
 }
