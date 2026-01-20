@@ -157,13 +157,23 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "46a520b54c6509bb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,6 +187,8 @@
       "bases:新建数据库": false
     }
   },
-  "active": "e080d7eb2bd12933",
-  "lastOpenFiles": []
+  "active": "64279cb701c80660",
+  "lastOpenFiles": [
+    "LICENSE"
+  ]
 }
